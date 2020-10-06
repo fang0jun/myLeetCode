@@ -1,5 +1,6 @@
 //法一：经典双指针
 
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -19,3 +20,4 @@ public:
         return len;
     }
 };
+```
